@@ -1,5 +1,5 @@
 <h1 align="center">
-    ✨ NezukoBot ✨
+    ✨ Zara Robot ✨
 </h1>
 
 <h3 align="center">
@@ -31,7 +31,7 @@
 
 <p align="center">
     A ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/NezukoDemonBot"> NezukoBot </a>
+    <a href="https://t.me/Miss_Zara_Bot"> ZaraRoBot </a>
 </p>
 
 <h2 align="center">
